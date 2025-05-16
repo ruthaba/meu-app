@@ -1,0 +1,54 @@
+{
+  "restaurantName": "The Digital Diner",
+  "currency": "USD",
+  "sourceLanguage": "en",
+  "categories": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "id": "S001",
+          "name": "Garlic Bread Supreme",
+          "description": "Toasted artisan bread with garlic butter, mozzarella, and herbs.",
+          "price": 7.50,
+          "tags": ["vegetarian"]
+        },
+        {
+          "id": "S002",
+          "name": "Spicy Wings",
+          "description": "Chicken wings tossed in our signature spicy sauce, served with blue cheese dip.",
+          "price": 10.00
+        }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "id": "M001",
+          "name": "Classic Cheeseburger",
+          "description": "Beef patty, cheddar cheese, lettuce, tomato, onion, pickles, and special sauce on a sesame bun. Served with fries.",
+          "price": 15.00
+        },
+        {
+          "id": "M002",
+          "name": "Vegan Pasta Primavera",
+          "description": "Penne pasta with fresh seasonal vegetables in a light tomato and herb sauce.",
+          "price": 14.00,
+          "tags": ["vegan", "healthy"]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "id": "D001",
+          "name": "Chocolate Lava Cake",
+          "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+          "price": 8.00
+        }
+      ]
+    }
+  ]
+}
